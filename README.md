@@ -9,4 +9,4 @@ pasos para ejecutar proyecto:
 
  ##Producción
  1. Ejecutar "npm run build"
- 2. tomar la carpeta "dist" y desplegarla
+ 2. tomar la carpeta "dist" y desplegarla.
